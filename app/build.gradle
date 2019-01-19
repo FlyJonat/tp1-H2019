@@ -32,6 +32,7 @@ dependencies {
     implementation 'com.fasterxml.jackson.core:jackson-core:2.9.7'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.9.7'
     implementation "com.fasterxml.jackson.module:jackson-module-kotlin:2.9.7"
+    implementation "com.beust:klaxon:3.0.4"
 
     testImplementation 'junit:junit:4.12'
 
